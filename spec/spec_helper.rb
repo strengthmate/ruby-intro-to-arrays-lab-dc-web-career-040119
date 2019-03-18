@@ -1,8 +1,8 @@
 
 RSpec.configure do |config|
 
-  def @my_new_array
-    instantiate_new_array
+  def 
+
     # raise "replace underscore with code"
   end
 
