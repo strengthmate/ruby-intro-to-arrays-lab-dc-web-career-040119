@@ -31,8 +31,8 @@ def length_of_array (array)
 end
 
 def instantiate_new_array
-  	Array.new
-  	Array
+  	my_new_array.new
+  	my_new_array
 end
 
 def 
