@@ -29,3 +29,10 @@ end
 def length_of_array (array)
   array.length
 end
+
+def instantiate_new_array
+  	Array.new
+  	Array
+end
+
+def 
