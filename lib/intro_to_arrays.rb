@@ -8,7 +8,7 @@ end
 
 def first_element
   my_first_element = taylor_swift[0]
-  my_first_element
+  puts my_first_element
 end
 
 def third_element
