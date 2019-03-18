@@ -7,6 +7,7 @@ def array_with_two_elements
 end
 
 def first_element
-  taylor_swift[0]
+  my_new_array = taylor_swift[0]
+  my_new_array
 end
 
