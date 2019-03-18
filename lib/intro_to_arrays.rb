@@ -6,5 +6,5 @@ def array_with_two_elements
 	[1, 2]
 end
 
-def
+def first_element
   taylor_swift.shift 
