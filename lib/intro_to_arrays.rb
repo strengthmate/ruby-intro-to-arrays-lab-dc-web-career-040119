@@ -11,3 +11,7 @@ def first_element
   my_new_array
 end
 
+def third_element
+
+
+def last_element
